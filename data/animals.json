@@ -159,6 +159,15 @@
         "loving"
       ],
       "id": "16"
+    },
+    {
+      "name": "Miky",
+      "species": "gorila",
+      "diet": "folivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "17"
     }
   ]
 }
