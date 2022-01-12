@@ -149,6 +149,16 @@
       "diet": "2",
       "personalityTraits": [],
       "id": "15"
+    },
+    {
+      "name": "Miky",
+      "species": "gorila",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "16"
     }
   ]
 }
