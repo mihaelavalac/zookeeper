@@ -3,8 +3,8 @@
 
 ## Description
 
-  <p>You can see the project repository: <b>[here](https://github.com/mihaelavalac/zookeepers)</b><br>
-   You can navigate to the deployed site <b>[here](https://zookeepermv.herokuapp.com/)</b></p>
+   You can see the project repository: <b> [here](https://github.com/mihaelavalac/zookeepers) </b>.<br>
+   You can navigate to the deployed site <b> [here](https://zookeepermv.herokuapp.com/) </b>.
 
   <p><i>The purpose of this application is to allow the zoo administration to have access to the animals and the staff in the zoo. The administration also can add a new animal or a new member in their system. While working on this project I empowered my fresh gathered knowledge of Express.js and  Node.js.</i><p>
 
