@@ -21,14 +21,14 @@
 Follow the following instructions to install this project: <br> 1. Download Nodejs to your computer. <br> 2. Clone the project repo to your computer `git clone git@github.com:mihaelavalac/zookeepers.git` <br> 3. Navigate to the root of the project through your text editor. <br> 4. Open terminal and run the following command `npm init` then, `npm install express` , `npm install fs`, `npm install path` <br> 5. Run the `npm start` to start the Express server <br> 6. Navigate to the `http://localhost:3001/`. <br> 7. You should see the home page like bellow. <br><br> ![image](./public/img/img1.png)<br> 8. Click the `View Animals` or `View Zookeepers` button to be redirected to the animal/zookeeper page where you can see all the animals and staff <br> ![image](./public/img/img2.png) <br> ![image](./public/img/img3.png)
 
 ## Features
-GIVEN a zookeeper application
-WHEN I open the Zookeeper
-THEN I am presented with a landing page with a link to an Animal Page and Zookeeper Page
-WHEN I click on the link to these pages
-THEN I am presented with a page with existing animals/zookeepers listed in the right-hand column, plus a form to filter the search in the left-hand column
-WHEN I enter a new animal in the form o the home page  and Submit it
-THEN the animal is added to the animals page
-WHEN I enter a new zookeeper in the form o the home page  and Submit it
+GIVEN a zookeeper application <br>
+WHEN I open the Zookeeper  <br>
+THEN I am presented with a landing page with a link to an Animal Page and Zookeeper Page  <br>
+WHEN I click on the link to these pages  <br>
+THEN I am presented with a page with existing animals/zookeepers listed in the right-hand column, plus a form to filter the search in the left-hand column  <br>
+WHEN I enter a new animal in the form o the home page  and Submit it  <br>
+THEN the animal is added to the animals page  <br>
+WHEN I enter a new zookeeper in the form o the home page  and Submit it  <br>
 THEN the zookeeper is added to the zookeeper page
 ## Contributing
 
