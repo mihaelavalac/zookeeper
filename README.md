@@ -1,5 +1,4 @@
 
-
   <h1 align="center"> Zookeepers <img align="center" src="https://img.shields.io/badge/license-GPL 2.0-red"> </h1>
 
 
@@ -8,7 +7,7 @@
    You can see the project repository: <b> [here](https://github.com/mihaelavalac/zookeepers) </b>.<br>
    You can navigate to the deployed site <b> [here](https://zookeepermv.herokuapp.com/) </b>.
 
-  <p><i>The purpose of this application is to allow the zoo administration to have access to the animals and the staff in the zoo. The administration also can add a new animal or a new member in their system. While working on this project I empowered my fresh gathered knowledge of Express.js and  Node.js.</i><p>
+  <p><i>The purpose of this application is to allow the zoo administration to have access to the animals and the staff in the zoo. The administration also can add a new animal or a new member to their system. While working on this project I empowered my fresh gathered knowledge of Express.js and Node.js.</i><p>
 
 ## Table of Contents
 
@@ -20,7 +19,7 @@
 
 ## Installation
 
-Follow the following instructions to install this project: <br> 1. Download Nodejs to your computer. <br> 2. Clone the project repo to your computer `git clone git@github.com:mihaelavalac/zookeepers.git` <br> 3. Navigate to the root of the project through your text editor. <br> 4. Open terminal and run the following command `npm init` then, `npm install express` , `npm install fs`, `npm install path` <br> 5. Run the `npm start` to start the Express server <br> 6. Navigate to the `http://localhost:3001/`. <br> 7. You should see the home page like bellow. <br><br> ![image](./public/img/img1.png)<br> 8. Click the `View Animals` or `View Zookeepers` button to be redirected to the animal/zookeeper page where you can see all the animals and staff <br> ![image](./public/img/img2.png) <br> ![image](./public/img/img3.png)
+Follow the following instructions to install this project: <br> 1. Download Nodejs to your computer. <br> 2. Clone the project repo to your computer `git clone git@github.com:mihaelavalac/zookeepers.git` <br> 3. Navigate to the root of the project through your text editor. <br> 4. Open terminal and run the following command `npm install` <br> 5. Run the `npm start` to start the Express server <br> 6. Navigate to the `http://localhost:3001/`. <br> 7. You should see the home page like bellow. <br><br> ![image](./public/img/img1.png)<br> 8. Click the `View Animals` or `View Zookeepers` button to be redirected to the animal/zookeeper page where you can see all the animals and staff <br> ![image](./public/img/img2.png) <br> ![image](./public/img/img3.png)
 
 ## Features
 GIVEN a zookeeper application <br>
@@ -28,9 +27,9 @@ WHEN I open the Zookeeper  <br>
 THEN I am presented with a landing page with a link to an Animal Page and Zookeeper Page  <br>
 WHEN I click on the link to these pages  <br>
 THEN I am presented with a page with existing animals/zookeepers listed in the right-hand column, plus a form to filter the search in the left-hand column  <br>
-WHEN I enter a new animal in the form o the home page  and Submit it  <br>
-THEN the animal is added to the animals page  <br>
-WHEN I enter a new zookeeper in the form o the home page  and Submit it  <br>
+WHEN I enter a new animal in the form of the home page and Submit it  <br>
+THEN the animal is added to the animals’ page <br>
+WHEN I enter a new zookeeper in the form of the home page and Submit it  <br>
 THEN the zookeeper is added to the zookeeper page
 ## Contributing
 
@@ -45,7 +44,7 @@ This application is covered by the <b>[GPL-2.0](https://opensource.org/licenses/
 
 ## Questions
 
-For questions please contact me on: <br/>
+For questions, please contact me on: <br/>
 
 :octocat: Github: [mihaelavalac](https://github.com/mihaelavalac) <br>
 ✉️ Email: mihaelavalac@yahoo.com<br/>
