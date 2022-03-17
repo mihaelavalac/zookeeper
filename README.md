@@ -1,5 +1,4 @@
-
-  <h1 align="center"> Zookeepers <img align="center" src="https://img.shields.io/badge/license-GPL 2.0-red"> </h1>
+<h1 align="center"> Zookeepers <img align="center" src="https://img.shields.io/badge/license-GPL 2.0-red"> </h1>
 
 
 ## Description
@@ -33,7 +32,7 @@ WHEN I enter a new zookeeper in the form of the home page and Submit it  <br>
 THEN the zookeeper is added to the zookeeper page
 ## Contributing
 
-To contribute to the project just fork and install it on your computer, add the desired features/changes and push it back to the git. I will review the changes and merge them in the main branch. <br>
+To contribute to the project just fork and install it on your computer, add the desired features/changes, and push it back to the git. I will review the changes and merge them in the main branch. <br>
 
 <b>Current Contributors:</b> <br>
 👪 Mihaela Valac
@@ -47,4 +46,5 @@ This application is covered by the <b>[GPL-2.0](https://opensource.org/licenses/
 For questions, please contact me on: <br/>
 
 :octocat: Github: [mihaelavalac](https://github.com/mihaelavalac) <br>
-✉️ Email: mihaelavalac@yahoo.com<br/>
+✉️ Email: mihaelavalac@yahoo.com<br
+
