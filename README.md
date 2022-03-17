@@ -46,5 +46,5 @@ This application is covered by the <b>[GPL-2.0](https://opensource.org/licenses/
 For questions, please contact me on: <br/>
 
 :octocat: Github: [mihaelavalac](https://github.com/mihaelavalac) <br>
-✉️ Email: mihaelavalac@yahoo.com<br
+✉️ Email: mihaelavalac@yahoo.com
 
